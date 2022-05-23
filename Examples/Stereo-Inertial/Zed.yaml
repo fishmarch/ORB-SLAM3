@@ -32,35 +32,11 @@ Camera2.p1: 0.0013
 Camera2.p2: -0.00080888
 Camera2.k3: 0.0
 
-## left camera
-#Camera1.fx: 698.9076
-#Camera1.fy: 697.9458
-#Camera1.cx: 634.0228
-#Camera1.cy: 366.2183
-#
-#Camera1.k1: -0.1647
-#Camera1.k2: 0.0190
-#Camera1.p1: 0.0013
-#Camera1.p2: -0.00082202
-#Camera1.k3: 0.0
-#
-### right camera
-#Camera2.fx: 698.9076
-#Camera2.fy: 697.9458
-#Camera2.cx: 634.0228
-#Camera2.cy: 366.2183
-#
-#Camera2.k1: -0.1647
-#Camera2.k2: 0.0203
-#Camera2.p1: 0.0013
-#Camera2.p2: -0.00080888
-#Camera2.k3: 0.0
+
 
 # Camera resolution
 Camera.width: 640
 Camera.height: 360
-#Camera.width: 1280
-#Camera.height: 720
 
 #Camera.newWidth: 640
 #Camera.newHeight: 360
